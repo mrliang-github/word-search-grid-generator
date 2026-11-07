@@ -4,7 +4,7 @@ A zero-dependency, seed-reproducible word search layout engine written in plain 
 
 **Live interactive demo & printable PDF maker:** [https://christmaswordsearch.org/generator/](https://christmaswordsearch.org/generator/)
 
- Also powers seasonal printable worksheet tools on [ChristmasWordSearch.org](https://christmaswordsearch.org/), including [Large Print Word Searches](https://christmaswordsearch.org/large-print/), [Christmas Bingo Cards](https://christmaswordsearch.org/christmas-bingo/), [Christmas Mad Libs Stories](https://christmaswordsearch.org/christmas-mad-libs/), and [Editable Place Cards](https://christmaswordsearch.org/place-cards/christmas/).
+Also powers seasonal printable worksheet tools on [ChristmasWordSearch.org](https://christmaswordsearch.org/), including [Large Print Word Searches](https://christmaswordsearch.org/large-print/), [Christmas Word Scramble](https://christmaswordsearch.org/christmas-word-scramble/), [Christmas Bingo Cards](https://christmaswordsearch.org/christmas-bingo/), [Christmas Mad Libs Stories](https://christmaswordsearch.org/christmas-mad-libs/), and [Editable Place Cards](https://christmaswordsearch.org/place-cards/christmas/).
 
 ## Quick Start
 
