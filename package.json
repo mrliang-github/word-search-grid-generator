@@ -1,0 +1,19 @@
+{
+  "name": "word-search-grid-generator",
+  "version": "1.0.0",
+  "description": "Zero-dependency deterministic word search grid generator with hidden message support",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://christmaswordsearch.org/generator/",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "word-search",
+    "puzzle-generator",
+    "printable",
+    "seeded-random",
+    "javascript"
+  ],
+  "license": "MIT"
+}
